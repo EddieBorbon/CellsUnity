@@ -1,5 +1,7 @@
 # 🧬 3D Cell Viewer
 
+![Project Screenshot](3dcell.png) 
+
 ## Overview
 **3D Cell Viewer** is an educational Unity project designed to help students visualize and explore different types of cells—animal, plant, bacterial, and fungal—along with their organelles in an immersive 3D environment. This interactive tool enhances learning by providing a detailed, hands-on experience with cell structures, making biology concepts easier to understand.
 
